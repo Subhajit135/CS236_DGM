@@ -1,5 +1,7 @@
 # [CS236 : Deep Generative Models](https://deepgenerativemodels.github.io/)
 
+<img src="https://github.com/SKKSaikia/CS236_DGM/blob/master/cs236_c.jpg">
+
 CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford. Generative Models or "GANS" in the spotlight, here I begin my CS236 journey.
 
 # Course
@@ -44,7 +46,8 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 - Combining generative model variants (slides 12), Energy-based models ([slides 13]()) <br/>
 - Guest lecture 2: Diederik P. Kingma, Discreteness in Latent Variable Modeling on Wednesday ([slides 14]()) <br/>
 - [Applications: Vision, Speech, Language, Graphs, Reinforcement learning](https://github.com/SKKSaikia/CS236_DGM/blob/master/notes/CopyofCS236TApresentations.pdf) <br/>
-- Generative Adversarial Imitation Learning. No class on Wednesday. ([GAIL](https://github.com/SKKSaikia/CS236_DGM/blob/master/notes/gail.pdf)) <br/>
+- Generative Adversarial Imitation Learning ([GAIL](https://github.com/SKKSaikia/CS236_DGM/blob/master/notes/gail.pdf)) <br/>
 - [Introduction to PyTorch](https://github.com/SKKSaikia/CS236_DGM/blob/master/notes/IntroductiontoPyTorch.pdf) <br/>
+- [Graphite : Iterative Generative Modelling of Graphs]() <br/>
 
 ✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf)
