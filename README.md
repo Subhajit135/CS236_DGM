@@ -8,7 +8,7 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 
   - Grading : Homeworks (15% x 3 = 45%) + Midterm: 15% + Course Project 40%
 
-## [Notes](https://deepgenerativemodels.github.io/notes/index.html) @[github](https://github.com/deepgenerativemodels/notes)
+# [Notes](https://deepgenerativemodels.github.io/notes/index.html) @[github](https://github.com/deepgenerativemodels/notes)
 
 ⌘ Book - [Deep Learning by  Ian Goodfellow, Yoshua Bengio, Aaron Courville.](https://www.deeplearningbook.org/) | [[pdf](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/Deep%20Learning%20Book%20-%20Ian%20Goodfellow.pdf)]
 
@@ -20,24 +20,24 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 
 # Course :
 
-# ♞ [INTRODUCTION](https://deepgenerativemodels.github.io/notes/introduction/) 
+## ♞ [INTRODUCTION](https://deepgenerativemodels.github.io/notes/introduction/) 
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
 
-<h2><b> ♞ [AUTOREGRESSIVE MODELS](https://deepgenerativemodels.github.io/notes/autoregressive/) </b></h2>
+## ♞ [AUTOREGRESSIVE MODELS](https://deepgenerativemodels.github.io/notes/autoregressive/)
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
-<h2><b> ♞ [VARIATIONAL AUTOENCODERS](https://deepgenerativemodels.github.io/notes/vae/) </b></h2>
+## ♞ [VARIATIONAL AUTOENCODERS](https://deepgenerativemodels.github.io/notes/vae/)
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
-<h2><b> ♞ [NORMALIZING FLOW MODELS](https://deepgenerativemodels.github.io/notes/flow/) </b></h2>
+## ♞ [NORMALIZING FLOW MODELS](https://deepgenerativemodels.github.io/notes/flow/)
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
-<h2><b> ♞ [GENERATIVE ADVERSARIAL NETWORKS](https://deepgenerativemodels.github.io/notes/gan/) </b></h2>
+## ♞ [GENERATIVE ADVERSARIAL NETWORKS](https://deepgenerativemodels.github.io/notes/gan/)
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
