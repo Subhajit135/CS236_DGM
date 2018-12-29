@@ -20,7 +20,7 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 
 # Course :
 
-<h2><b> ♞ [INTRODUCTION](https://deepgenerativemodels.github.io/notes/introduction/) </b></h2>
+# ♞ [INTRODUCTION](https://deepgenerativemodels.github.io/notes/introduction/) 
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
