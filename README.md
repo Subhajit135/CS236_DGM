@@ -6,4 +6,25 @@ CS236, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford
 
 <p align="justify">Generative models are widely used in many subfields of AI and Machine Learning. Recent advances in parameterizing these models using deep neural networks, combined with progress in stochastic optimization methods, have enabled scalable modeling of complex, high-dimensional data including images, text, and speech. In this course, we will study the probabilistic foundations and learning algorithms for deep generative models, including Variational Autoencoders (VAE), Generative Adversarial Networks (GAN), autoregressive models, and normalizing flow models. The course will also discuss application areas that have benefitted from deep generative models, including computer vision, speech and natural language processing, graph mining, and reinforcement learning.</p>
 
+# [Notes](https://deepgenerativemodels.github.io/notes/index.html) @[github](https://github.com/deepgenerativemodels/notes)
 
+⌘ Book - [Deep Learning by  Ian Goodfellow, Yoshua Bengio, Aaron Courville.](https://www.deeplearningbook.org/)
+
+# Course :
+
+<h2><b> ♞ INTRODUCTION </b></h2>
+
+𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+
+
+<h2><b> ♞ INTRODUCTION </b></h2>
+
+𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+
+<h2><b> ♞ INTRODUCTION </b></h2>
+
+𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+
+<h2><b> ♞ INTRODUCTION </b></h2>
+
+𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
