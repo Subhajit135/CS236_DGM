@@ -58,6 +58,7 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 - [Learning deep generative models. Ruslan Salakhutdinov. Annual Review of Statistics and Its Application, April 2015](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/annrev.pdf).
 - [Generative Models from OpenAI](https://blog.openai.com/generative-models/)
 - [Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.](https://github.com/wiseodd/generative-models) : [wiseodd.github.io](http://wiseodd.github.io)
+- [Deep.Generative.Models.cs.nyu.edu](https://cs.nyu.edu/courses/spring18/CSCI-GA.3033-022/)
 
 
 ✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf)
