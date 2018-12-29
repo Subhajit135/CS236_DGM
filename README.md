@@ -34,3 +34,5 @@ CS236, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford
 <h2><b> ♞ INTRODUCTION </b></h2>
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+
+✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf)
