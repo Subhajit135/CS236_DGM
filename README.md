@@ -61,3 +61,5 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 ✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf)
 
 # FINAL PROJECT
+
+The Final Project is important and here are the resources - [Project Guidelines](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/CS236PosterGuidelines.pdf), [Project Proposal Guidelines](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/CS236ProjectProposalGuidelines.pdf), [Final Report Guidelines](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/CS236ProjectFinalReportGuide.pdf), [Project Examples](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/CS236ProjectExamples.pdf) etc. I ended up doing " ".
