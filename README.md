@@ -55,7 +55,8 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 - [Tutorial on Generative Adversarial Networks. Computer Vision and Pattern Recognition, June 2018.](https://sites.google.com/view/cvpr2018tutorialongans/)
 - [Tutorial on Deep Generative Models](https://youtu.be/JrO5fSskISY) Shakir Mohamed and Danilo Rezende. Uncertainty in Artificial Intelligence, July 2017.
 - [Tutorial on Generative Adversarial Networks](https://youtu.be/AJVyzd0rqdc) Ian Goodfellow. Neural Information Processing Systems, December 2016
-- [Learning deep generative models. Ruslan Salakhutdinov. Annual Review of Statistics and Its Application, April 2015](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/annrev.pdf). 
+- [Learning deep generative models. Ruslan Salakhutdinov. Annual Review of Statistics and Its Application, April 2015](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/annrev.pdf).
+- [Generative Models from OpenAI](https://blog.openai.com/generative-models/)
 
 
 ✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf)
