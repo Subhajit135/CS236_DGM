@@ -8,7 +8,7 @@ CS236, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford
 
 # [Notes](https://deepgenerativemodels.github.io/notes/index.html) @[github](https://github.com/deepgenerativemodels/notes)
 
-⌘ Book - [Deep Learning by  Ian Goodfellow, Yoshua Bengio, Aaron Courville.](https://www.deeplearningbook.org/)
+⌘ Book - [Deep Learning by  Ian Goodfellow, Yoshua Bengio, Aaron Courville.](https://www.deeplearningbook.org/) | [[pdf](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/Deep%20Learning%20Book%20-%20Ian%20Goodfellow.pdf)]
 
 # Course :
 
