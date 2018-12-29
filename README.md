@@ -20,20 +20,24 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 
 # Course :
 
-<h2><b> ♞ INTRODUCTION </b></h2>
+<h2><b> ♞ [INTRODUCTION](https://deepgenerativemodels.github.io/notes/introduction/) </b></h2>
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
 
-<h2><b> ♞ INTRODUCTION </b></h2>
+<h2><b> ♞ [AUTOREGRESSIVE MODELS](https://deepgenerativemodels.github.io/notes/autoregressive/) </b></h2>
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
-<h2><b> ♞ INTRODUCTION </b></h2>
+<h2><b> ♞ [VARIATIONAL AUTOENCODERS](https://deepgenerativemodels.github.io/notes/vae/) </b></h2>
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
-<h2><b> ♞ INTRODUCTION </b></h2>
+<h2><b> ♞ [NORMALIZING FLOW MODELS](https://deepgenerativemodels.github.io/notes/flow/) </b></h2>
+
+𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+
+<h2><b> ♞ [GENERATIVE ADVERSARIAL NETWORKS](https://deepgenerativemodels.github.io/notes/gan/) </b></h2>
 
 𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
 
