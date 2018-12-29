@@ -10,6 +10,12 @@ CS236, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford
 
 ⌘ Book - [Deep Learning by  Ian Goodfellow, Yoshua Bengio, Aaron Courville.](https://www.deeplearningbook.org/) | [[pdf](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/Deep%20Learning%20Book%20-%20Ian%20Goodfellow.pdf)]
 
+# 🎄 Homeworks
+
+☃ [ Homework 1 ](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/CS236_Homework_1.pdf) : [Starter Zip](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/hw1.zip) : [Solution](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/CS236_hw1_answers.pdf) <br/>
+☃ [ Homework 2 ](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/hw2.pdf) : [Starter Zip](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/hw2.zip) : [Solution](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/CS236_hw2_answers.pdf) <br/>
+☃ [ Homework 3 ](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/CS236_Homework_3.pdf) : [Starter Zip](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/hw3starter.zip) : [Solution](https://github.com/SKKSaikia/CS236_DGM/blob/master/hw/CS236_Homework_3_answer.pdf) <br/>
+
 # Course :
 
 <h2><b> ♞ INTRODUCTION </b></h2>
