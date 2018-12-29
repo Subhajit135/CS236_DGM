@@ -1,6 +1,6 @@
 # [CS236 : Deep Generative Models](https://deepgenerativemodels.github.io/)
 
-CS236, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford. Generative Models or "GANS" in the spotlight, here I begin my CS236 journey.
+CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford. Generative Models or "GANS" in the spotlight, here I begin my CS236 journey.
 
 # Course
 
