@@ -22,23 +22,29 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 
 ## ♞ [INTRODUCTION](https://deepgenerativemodels.github.io/notes/introduction/) 
 
-𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
-
+𓁅 Introduction and Background ([slides 1](), [slides 2]()) <br/>
 
 ## ♞ [AUTOREGRESSIVE MODELS](https://deepgenerativemodels.github.io/notes/autoregressive/)
 
-𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+𓁅 Autoregressive Models ([slides 3](), [slides 4]()) <br/>
 
 ## ♞ [VARIATIONAL AUTOENCODERS](https://deepgenerativemodels.github.io/notes/vae/)
 
-𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+𓁅 Variational Autoencoders ([slides 5](), [slides 6]()) <br/>
 
 ## ♞ [NORMALIZING FLOW MODELS](https://deepgenerativemodels.github.io/notes/flow/)
 
-𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+𓁅 Normalizing Flow Models ([slides 7](), [slides 8]()) <br/>
 
 ## ♞ [GENERATIVE ADVERSARIAL NETWORKS](https://deepgenerativemodels.github.io/notes/gan/)
 
-𓁅 Overview of course, Optimization [ [slide1p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview.pdf) ], [ [slide6p](https://github.com/SKKSaikia/CS221_AI/blob/master/slides/overview-6pp.pdf) ] <br/>
+𓁅 Generative Adversarial Networks ([slides 9](), [slides 10]()) <br/>
+
+- Guest lecture 1: Tengyu Ma, Evaluation of Generative Models on Wednesday ([slides 11]()) <br/>
+- Combining generative model variants (slides 12), Energy-based models ([slides 13]()) <br/>
+- Guest lecture 2: Diederik P. Kingma, Discreteness in Latent Variable Modeling on Wednesday ([slides 14]()) <br/>
+- [Applications: Vision, Speech, Language, Graphs, Reinforcement learning](https://github.com/SKKSaikia/CS236_DGM/blob/master/notes/CopyofCS236TApresentations.pdf) <br/>
+- Generative Adversarial Imitation Learning. No class on Wednesday. ([GAIL](https://github.com/SKKSaikia/CS236_DGM/blob/master/notes/gail.pdf)) <br/>
+- [Introduction to PyTorch](https://github.com/SKKSaikia/CS236_DGM/blob/master/notes/IntroductiontoPyTorch.pdf) <br/>
 
 ✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf)
