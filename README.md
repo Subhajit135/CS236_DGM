@@ -53,8 +53,8 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 ## Additional Reading: Surveys and tutorials <br/>
 - Papers by Guest Lecturer -Diederik- [Auto-Encoding Variational Bayes](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/paper-Auto-Encoding%20Variational%20Bayes.pdf), [Improving Variational Inference with Inverse Autoregressive Flow](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/Improving%20Variational%20Inference%20with%20Inverse%20Autoregressive%20Flow.pdf) and [Glow- Generative Flow with Invertible 1x1 Convolutions](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/Glow-%20Generative%20Flow%20with%20Invertible%201x1%20Convolutions.pdf)
 - [Tutorial on Generative Adversarial Networks. Computer Vision and Pattern Recognition, June 2018.](https://sites.google.com/view/cvpr2018tutorialongans/)
-- [Tutorial on Deep Generative Models. Shakir Mohamed and Danilo Rezende. Uncertainty in Artificial Intelligence, July 2017.](https://youtu.be/JrO5fSskISY) 
-- [Tutorial on Generative Adversarial Networks. Ian Goodfellow. Neural Information Processing Systems, December 2016](https://youtu.be/AJVyzd0rqdc). 
+- [Tutorial on Deep Generative Models](https://youtu.be/JrO5fSskISY) Shakir Mohamed and Danilo Rezende. Uncertainty in Artificial Intelligence, July 2017.
+- [Tutorial on Generative Adversarial Networks](https://youtu.be/AJVyzd0rqdc) Ian Goodfellow. Neural Information Processing Systems, December 2016
 - [Learning deep generative models. Ruslan Salakhutdinov. Annual Review of Statistics and Its Application, April 2015](https://github.com/SKKSaikia/CS236_DGM/blob/master/doc/annrev.pdf). 
 
 
