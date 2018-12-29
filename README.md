@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SKKSaikia/CS236_DGM/blob/master/cs236_c.jpg">
 
-CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford. Generative Models or "GANS" in the spotlight, here I begin my CS236 journey.
+CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class of Stanford. Generative Models or "GANS" in the spotlight, here I begin my CS236 journey. Though I didn't enroll in the class, I used my stanford email to set up my lab ([Google cloud coupons](https://github.com/SKKSaikia/CS236_DGM/blob/master/grant.PNG)).
 
 # Course
 
@@ -51,3 +51,5 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 - [Graphite : Iterative Generative Modelling of Graphs](https://github.com/SKKSaikia/CS236_DGM/blob/master/notes/lec15graphite.pdf) <br/>
 
 ✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf)
+
+# FINAL PROJECT
