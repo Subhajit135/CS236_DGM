@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS236_DGM)
+
 # [CS236 : Deep Generative Models](https://deepgenerativemodels.github.io/)
 
 <img src="https://github.com/SKKSaikia/CS236_DGM/blob/master/cs236_c.jpg">
