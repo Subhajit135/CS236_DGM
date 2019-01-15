@@ -63,7 +63,7 @@ CS236 Fall 2018, The "[IAN](https://twitter.com/goodfellow_ian?lang=en)" class o
 - [Deep.Generative.Models.cs.nyu.edu](https://cs.nyu.edu/courses/spring18/CSCI-GA.3033-022/)
 
 
-✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf)
+✡ Exam : [Fall@2018-Mid](https://github.com/SKKSaikia/CS236_DGM/blob/master/exam/CS236_mid_term_soln.pdf) | Collected from public resources
 
 # FINAL PROJECT
 
